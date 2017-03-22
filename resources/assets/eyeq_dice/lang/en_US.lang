@@ -1,0 +1,8 @@
+msg.coin.txt=ping
+item.dice.name=Dice
+msg.heads.txt=heads
+entity.Dice.name=Dice
+msg.dice.txt=roll...
+entity.Coin.name=Coin
+item.coin.name=Coin
+msg.tails.txt=tails

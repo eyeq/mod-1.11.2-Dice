@@ -1,0 +1,14 @@
+{
+  "entitycointhrow": {
+    "category": "player",
+    "sounds": [
+      "random/bow"
+    ]
+  },
+  "entitydicethrow": {
+    "category": "player",
+    "sounds": [
+      "random/bow"
+    ]
+  }
+}

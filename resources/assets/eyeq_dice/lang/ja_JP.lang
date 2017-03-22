@@ -1,0 +1,8 @@
+msg.coin.txt=ピーン
+item.dice.name=サイコロ
+msg.heads.txt=おもて
+entity.Dice.name=サイコロ
+msg.dice.txt=コロコロ……
+entity.Coin.name=コイン
+item.coin.name=コイン
+msg.tails.txt=うら
